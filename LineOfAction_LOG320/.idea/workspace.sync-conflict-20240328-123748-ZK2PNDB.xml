@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd1a8e6d-ad0c-4050-8077-e15bdb7b61d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CpuPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DispoBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/DispoBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PositionDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PositionDecoder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cestnI3kZyoU2jVb4ivFXrsm85" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Debug&quot;,
+    &quot;Attach to process.pid 4452.executor&quot;: &quot;ProcessAttachDebug&quot;,
+    &quot;Attach to process.pid 7000.executor&quot;: &quot;ProcessAttachDebug&quot;,
+    &quot;Attach to process.pid 9672.executor&quot;: &quot;ProcessAttachDebug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Moh/Downloads/LineOfActions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Moh/Documents/SchoolShit/Annee_2(2023-2024)/H2024/LOG320/Labo/Labo2_LineOfActions/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Labo2_LineOfActions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1a8e6d-ad0c-4050-8077-e15bdb7b61d0" name="Changes" comment="" />
+      <created>1708483597053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708483597053</updated>
+      <workItem from="1708483598089" duration="511000" />
+      <workItem from="1708484116105" duration="1237000" />
+      <workItem from="1708543557078" duration="16674000" />
+      <workItem from="1708627227201" duration="4072000" />
+      <workItem from="1708648338666" duration="2555000" />
+      <workItem from="1708725389798" duration="6368000" />
+      <workItem from="1708752286975" duration="9293000" />
+      <workItem from="1708811908784" duration="8164000" />
+      <workItem from="1708837853261" duration="620000" />
+      <workItem from="1708897029080" duration="18087000" />
+      <workItem from="1708982926310" duration="25498000" />
+      <workItem from="1709058952862" duration="19565000" />
+      <workItem from="1709143610019" duration="21654000" />
+      <workItem from="1709174190723" duration="18468000" />
+      <workItem from="1709221763480" duration="5813000" />
+      <workItem from="1710282597792" duration="15759000" />
+      <workItem from="1710360485187" duration="28947000" />
+      <workItem from="1710451274921" duration="27000" />
+      <workItem from="1710453832289" duration="19875000" />
+      <workItem from="1710629573001" duration="3000" />
+      <workItem from="1710738680493" duration="23000" />
+      <workItem from="1711555135786" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Board" memberName="board" />
+        <PinnedItemInfo parentTag="Game" memberName="gameBoard" />
+        <PinnedItemInfo parentTag="Pion" memberName="position" />
+        <PinnedItemInfo parentTag="Move" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

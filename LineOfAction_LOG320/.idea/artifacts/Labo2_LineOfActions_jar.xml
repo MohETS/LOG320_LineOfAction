@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Labo2_LineOfActions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Labo2_LineOfActions_jar</output-path>
+    <root id="archive" name="Labo2_LineOfActions.jar">
+      <element id="module-output" name="Labo2_LineOfActions" />
+    </root>
+  </artifact>
+</component>
